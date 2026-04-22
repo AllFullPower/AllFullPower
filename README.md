@@ -15,7 +15,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Linux Virtualization Host Setup (QEMU-KVM)</b>
-  - [Linux Virtualization Host Setup](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Linux Virtualization Host Setup](https://github.com/AllFullPower/Linux-Virtualization-Host-Setup-QEMU-KVM-)
 
 
 

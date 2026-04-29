@@ -17,6 +17,10 @@
 - <b>Linux Virtualization Host Setup (QEMU-KVM)</b>
   - [Linux Virtualization Host Setup](https://github.com/AllFullPower/Linux-Virtualization-Host-Setup-QEMU-KVM-)
 
+- <b>Active Directory and Windows Server Setup </b>
+  - [Active Directory and Windows Server](https://github.com/AllFullPower/Active-Directory-and-Windows-Server-Setup)
+
+
 
 
 <h2>☎️ Contact me:</h2>

@@ -17,8 +17,8 @@
 - <b>Linux Virtualization Host Setup (QEMU-KVM)</b>
   - [Linux Virtualization Host Setup](https://github.com/AllFullPower/Linux-Virtualization-Host-Setup-QEMU-KVM-)
 
-- <b>Active Directory and Windows Server Setup </b>
-  - [Active Directory and Windows Server](https://github.com/AllFullPower/Active-Directory-and-Windows-Server-Setup)
+- <b>Enterprise Lab: Windows Server & AD DS Deployment</b>
+  - [Enterprise Lab: Windows Server & AD DS Deployment](https://github.com/AllFullPower/Enterprise-Lab-Windows-Server-AD-DS-Deployment)
 
 
 

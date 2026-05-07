@@ -21,7 +21,7 @@
   - [Enterprise Lab: Windows Server & AD DS Deployment](https://github.com/AllFullPower/Enterprise-Lab-Windows-Server-AD-DS-Deployment)
 
 - <b>Enterprise Help Desk Lab with Active Directory</b>
-  - [Enterprise Help Desk Lab with Active Directory](https://https://github.com/AllFullPower/Ticketing-System-integration-with-AD-Environment)
+  - [Enterprise Help Desk Lab with Active Directory](https://github.com/AllFullPower/Ticketing-System-integration-with-AD-Environment)
 
 
 

@@ -22,6 +22,9 @@
 
 - <b>Enterprise Help Desk Lab with Active Directory</b>
   - [Enterprise Help Desk Lab with Active Directory](https://github.com/AllFullPower/Ticketing-System-integration-with-AD-Environment)
+ 
+- <b>Hybrid-Network-Lab-VPN-Gateway</b>
+  - [Hybrid-Network-Lab-VPN-Gateway](https://github.com/AllFullPower/Hybrid-Network-Lab-VPN-Gateway)
 
 
 
